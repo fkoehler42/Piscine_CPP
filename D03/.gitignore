@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Executables
+*.out
+claptrap
+fragtrap
+frag_scav
+ninjatrap
+supertrap
+
+# Debug files
+*.dSYM/
+
+# VScode
+.vscode/
+
+# Temp files
+*.swp
+
+# System files
+.DS_Store
+._.DS_Store

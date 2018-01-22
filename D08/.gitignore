@@ -1,0 +1,21 @@
+# Object files
+*.o
+
+# Executables
+*.out
+easyFind
+span
+mutantStack
+
+# Debug files
+*.dSYM/
+
+# VScode
+.vscode/
+
+# Temp files
+*.swp
+
+# System files
+.DS_Store
+._.DS_Store
